@@ -1,0 +1,7 @@
+hard_tabs = true
+newline_style = "Unix"
+
+# Nightly options
+reorder_impl_items = true
+imports_layout = "Vertical"
+merge_imports = true
